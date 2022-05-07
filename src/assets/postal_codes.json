@@ -1,0 +1,3007 @@
+[
+  {
+    "title": "Nearby",
+    "coordinates": "12.599,55.691",
+    "label_dk": "Nearby",
+    "nearMeIcon": "https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/near_me-512.png"
+  },{
+    "title": "1000-1499 , København K",
+    "coordinates": "12.599,55.691",
+    "label_dk": "København K"
+  },
+  {
+    "title": "1500-1799, København V",
+    "coordinates": "12.537, 55.666",
+    "label_dk": "København V"
+  },
+  {
+    "title": "1800-1999, Frederiksberg C",
+    "coordinates": "12.5426,55.6871",
+    "label_dk": "Frederiksberg C"
+  },
+  {
+    "title": "2000, Frederiksberg",
+    "coordinates": "  12.536,55.691",
+    "label_dk": "Frederiksberg"
+  },
+  {
+    "title": "2100, København Ø",
+    "coordinates": " 12.5618, 55.698",
+    "label_dk": "København Ø"
+  },
+  {
+    "title": "2150, Nordhavn",
+    "coordinates": "12.601, 55.7223",
+    "label_dk": "Nordhavn"
+  },
+  {
+    "title": "2200, København N",
+    "coordinates": "12.544, 55.707",
+    "label_dk": "København N"
+  },
+  {
+    "title": "2300, København S",
+    "coordinates": "12.604, 55.671",
+    "label_dk": "København S"
+  },
+  {
+    "title": "2400, København NV",
+    "coordinates": "12.514,55.722",
+    "label_dk": "København NV"
+  },
+  {
+    "title": "2450, København SV",
+    "coordinates": "12.531,55.6619",
+    "label_dk": "København SV"
+  },
+  {
+    "title": "2500, Valby",
+    "coordinates": "12.527,55.666",
+    "label_dk": "Valby"
+  },
+  {
+    "title": "2600, Glostrup",
+    "coordinates": "12.3791,55.6873",
+    "label_dk": "Glostrup"
+  },
+  {
+    "title": "2605, Brøndby",
+    "coordinates": "12.418,55.668",
+    "label_dk": "Brøndby"
+  },
+  {
+    "title": "2610, Rødovre",
+    "coordinates": "12.428,55.707",
+    "label_dk": "Rødovre"
+  },
+  {
+    "title": "2620, Albertslund",
+    "coordinates": "12.3693,55.6832",
+    "label_dk": "Albertslund"
+  },
+  {
+    "title": "2625, Vallensbæk",
+    "coordinates": "12.3649,55.656",
+    "label_dk": "Vallensbæk"
+  },
+  {
+    "title": "2630, Taastrup",
+    "coordinates": "12.233,55.6351",
+    "label_dk": "Taastrup"
+  },
+  {
+    "title": "2633, Taastrup Nordsjællands Postcenter",
+    "coordinates": "12.237,55.700",
+    "label_dk": "Taastrup Nordsjællands Postcenter"
+  },
+  {
+    "title": "2635, Ishøj",
+    "coordinates": "12.2350,55.6210",
+    "label_dk": "Ishøj"
+  },
+  {
+    "title": "2640, Hedehusene",
+    "coordinates": "12.1572,55.640",
+    "label_dk": "Hedehusene"
+  },
+  {
+    "title": "2650, Hvidovre",
+    "coordinates": "12.490,55.646",
+    "label_dk": "Hvidovre"
+  },
+  {
+    "title": "2660, Brøndby Strand",
+    "coordinates": "12.440,55.617",
+    "label_dk": "Brøndby Strand"
+  },
+  {
+    "title": "2665, Vallensbæk Strand",
+    "coordinates": "12.403,55.616",
+    "label_dk": "Vallensbæk Strand"
+  },
+  {
+    "title": "2670, Greve",
+    "coordinates": "12.2303,55.616",
+    "label_dk": "Greve"
+  },
+  {
+    "title": "2680, Solrød Strand",
+    "coordinates": "12.1673,55.534",
+    "label_dk": "Solrød Strand"
+  },
+  {
+    "title": "2690, Karlslunde",
+    "coordinates": "12.189,55.582",
+    "label_dk": "Karlslunde"
+  },
+  {
+    "title": "2700, Brønshøj",
+    "coordinates": "12.513,55.704",
+    "label_dk": "Brønshøj"
+  },
+  {
+    "title": "2720, Vanløse",
+    "coordinates": "12.507469981824794,55.697642162728606",
+    "label_dk": "Vanløse"
+  },
+  {
+    "title": "2730, Herlev",
+    "coordinates": "12.452414988386224,55.71497689185628",
+    "label_dk": "Herlev"
+  },
+  {
+    "title": "2740, Skovlunde",
+    "coordinates": "12.410255790518352,55.70943647397921",
+    "label_dk": "Skovlunde"
+  },
+  {
+    "title": "2750, Ballerup",
+    "coordinates": "12.330882528942517,55.7508180834812",
+    "label_dk": "Ballerup"
+  },
+  {
+    "title": "2760, Måløv",
+    "coordinates": "12.338176014092634,55.756915133386244",
+    "label_dk": "Måløv"
+  },
+  {
+    "title": "2765, Smørum",
+    "coordinates": "12.31641069223157,55.74064107043299",
+    "label_dk": "Smørum"
+  },
+  {
+    "title": "2770, Kastrup",
+    "coordinates": "12.508927200563468,55.60854197504392",
+    "label_dk": "Kastrup"
+  },
+  {
+    "title": "2791, Dragør",
+    "coordinates": "12.633322172769894,55.61483370388107",
+    "label_dk": "Dragør"
+  },
+  {
+    "title": "2800, Kongens Lyngby",
+    "coordinates": "12.547167865259262,55.77356512372017",
+    "label_dk": "Kongens Lyngby"
+  },
+  {
+    "title": "2820, Gentofte",
+    "coordinates": "12.552179802077156,55.764083044888665",
+    "label_dk": "Gentofte"
+  },
+  {
+    "title": "2830, Virum",
+    "coordinates": "12.487038540314806,55.7879818822009",
+    "label_dk": "Virum"
+  },
+  {
+    "title": "2840, Holte",
+    "coordinates": "12.522847604645007,55.83324089909859",
+    "label_dk": "Holte"
+  },
+  {
+    "title": "2850, Nærum",
+    "coordinates": "12.544948587002093,55.8277390049673",
+    "label_dk": "Nærum"
+  },
+  {
+    "title": "2860, Søborg",
+    "coordinates": "12.51788747782344,55.73566512426686",
+    "label_dk": "Søborg"
+  },
+  {
+    "title": "2870, Dyssegård",
+    "coordinates": "12.538371274157226,55.7274535758987",
+    "label_dk": "Dyssegård"
+  },
+  {
+    "title": "2880, Bagsværd",
+    "coordinates": "12.47980689384588,55.751117447864864",
+    "label_dk": "Bagsværd"
+  },
+  {
+    "title": "2900, Hellerup",
+    "coordinates": "12.544840975579268,55.740937097683464",
+    "label_dk": "Hellerup"
+  },
+  {
+    "title": "2920, Charlottenlund",
+    "coordinates": "12.587553386370983,55.762535847496395",
+    "label_dk": "Charlottenlund"
+  },
+  {
+    "title": "2930, Klampenborg",
+    "coordinates": "12.595953799131074,55.78825617988807",
+    "label_dk": "Klampenborg"
+  },
+  {
+    "title": "2942, Skodsborg",
+    "coordinates": "12.566094996103768,55.83859627902329",
+    "label_dk": "Skodsborg"
+  },
+  {
+    "title": "2950, Vedbæk",
+    "coordinates": "12.55599849799841,55.86982631555503",
+    "label_dk": "Vedbæk"
+  },
+  {
+    "title": "2960, Rungsted Kyst",
+    "coordinates": "12.547520936877813,55.886243092136006",
+    "label_dk": "Rungsted Kyst"
+  },
+  {
+    "title": "2970, Hørsholm",
+    "coordinates": "12.473267916623273,55.90448172051629",
+    "label_dk": "Hørsholm"
+  },
+  {
+    "title": "2980, Kokkedal",
+    "coordinates": "12.437769204340306,55.93455956064494",
+    "label_dk": "Kokkedal"
+  },
+  {
+    "title": "2990, Nivå",
+    "coordinates": "12.527943319481786,55.940416964292936",
+    "label_dk": "Nivå"
+  },
+  {
+    "title": "3000, Helsingør",
+    "coordinates": "12.536046290040371,56.05040366353994",
+    "label_dk": "Helsingør"
+  },
+  {
+    "title": "3050, Humlebæk",
+    "coordinates": "12.519373183527009,55.97693520346551",
+    "label_dk": "Humlebæk"
+  },
+  {
+    "title": "3060, Espergærde",
+    "coordinates": "12.530345803781675,56.02246625193709",
+    "label_dk": "Espergærde"
+  },
+  {
+    "title": "3070, Snekkersten",
+    "coordinates": "12.548935054745403,56.01393743385484",
+    "label_dk": "Snekkersten"
+  },
+  {
+    "title": "3080, Tikøb",
+    "coordinates": "12.444417974848246,56.04410413848562",
+    "label_dk": "Tikøb"
+  },
+  {
+    "title": "3100, Hornbæk",
+    "coordinates": "12.404037079836923,56.09322074767623",
+    "label_dk": "Hornbæk"
+  },
+  {
+    "title": "3120, Dronningmølle",
+    "coordinates": "12.385272831518632, 56.101336382539216",
+    "label_dk": "Dronningmølle"
+  },
+  {
+    "title": "3140, Ålsgårde",
+    "coordinates": "12.519455124994519,56.085838506768745",
+    "label_dk": "Ålsgårde"
+  },
+  {
+    "title": "3150, Hellebæk",
+    "coordinates": "12.569282961605024,56.06299786107264",
+    "label_dk": "Hellebæk"
+  },
+  {
+    "title": "3200, Helsinge",
+    "coordinates": "12.129145144953439,56.03821523887265",
+    "label_dk": "Helsinge"
+  },
+  {
+    "title": "3210, Vejby",
+    "coordinates": "12.113775269015184,56.07961147172464",
+    "label_dk": "Vejby"
+  },
+  {
+    "title": "3220, Tisvildeleje",
+    "coordinates": "12.12148778127117,56.04940536383154",
+    "label_dk": "Tisvildeleje"
+  },
+  {
+    "title": "3230, Græsted",
+    "coordinates": "12.207656923982817,56.11397534659273",
+    "label_dk": "Græsted"
+  },
+  {
+    "title": "3250, Gilleleje",
+    "coordinates": "12.313684128867125,56.12560333027851",
+    "label_dk": "Gilleleje"
+  },
+  {
+    "title": "3300, Frederiksværk",
+    "coordinates": "12.016461697979278,55.961838709924145",
+    "label_dk": "Frederiksværk"
+  },
+  {
+    "title": "3310, Ølsted",
+    "coordinates": "12.03941922673718,55.929648329439",
+    "label_dk": "Ølsted"
+  },
+  {
+    "title": "3320, Skævinge",
+    "coordinates": "12.204302772840453,55.94228973274461",
+    "label_dk": "Skævinge"
+  },
+  {
+    "title": "3330, Gørløse",
+    "coordinates": "12.247435307646553,55.88863025251393",
+    "label_dk": "Gørløse"
+  },
+  {
+    "title": "3360, Liseleje",
+    "coordinates": "11.928673021912644,56.00246528116694",
+    "label_dk": "Liseleje"
+  },
+  {
+    "title": "3370, Melby",
+    "coordinates": "11.950655551728099,55.98948064309944",
+    "label_dk": "Melby"
+  },
+  {
+    "title": "3390, Hundested",
+    "coordinates": "11.902636348562796,55.94440199379427",
+    "label_dk": "Hundested"
+  },
+  {
+    "title": "3400, Hillerød",
+    "coordinates": "12.22140538608167,55.90852406764966",
+    "label_dk": "Hillerød"
+  },
+  {
+    "title": "3450, Allerød",
+    "coordinates": "12.393608657184593,55.89635453037149",
+    "label_dk": "Allerød"
+  },
+  {
+    "title": "3460, Birkerød",
+    "coordinates": "12.486590903838028,55.85014588008794",
+    "label_dk": "Birkerød"
+  },
+  {
+    "title": "3480, Fredensborg",
+    "coordinates": "12.46353305552312,55.99164577885293",
+    "label_dk": "Fredensborg"
+  },
+  {
+    "title": "3490, Kvistgård",
+    "coordinates": "12.517086176245474,56.002722331393365",
+    "label_dk": "Kvistgård"
+  },
+  {
+    "title": "3500, Værløse",
+    "coordinates": "12.414474079572804,55.77519684779715",
+    "label_dk": "Værløse"
+  },
+  {
+    "title": "3520, Farum",
+    "coordinates": "12.421464126622151,55.810195262581146",
+    "label_dk": "Farum"
+  },
+  {
+    "title": "3540, Lynge",
+    "coordinates": "12.291568660908535,55.85855353394457",
+    "label_dk": "Lynge"
+  },
+  {
+    "title": "3550, Slangerup",
+    "coordinates": "12.15536974323816,55.88108739312133",
+    "label_dk": "Slangerup"
+  },
+  {
+    "title": "3600, Frederikssund",
+    "coordinates": "12.075639073083195,55.793171308063535",
+    "label_dk": "Frederikssund"
+  },
+  {
+    "title": "3630, Jægerspris",
+    "coordinates": "12.010008496809045,55.87872523088277",
+    "label_dk": "Jægerspris"
+  },
+  {
+    "title": "3650, Ølstykke",
+    "coordinates": "12.134462554356421,55.80669223457479",
+    "label_dk": "Ølstykke"
+  },
+  {
+    "title": "3660, Stenløse",
+    "coordinates": "12.229482957191573,55.80899548736937",
+    "label_dk": "Stenløse"
+  },
+  {
+    "title": "3670, Veksø Sjælland",
+    "coordinates": "12.258022259271115,55.775142158436566",
+    "label_dk": "Veksø Sjælland"
+  },
+  {
+    "title": "3700, Rønne",
+    "coordinates": "14.751110108471137,55.06285773911738",
+    "label_dk": "Rønne"
+  },
+  {
+    "title": "3720, Aakirkeby",
+    "coordinates": "14.973958280732152,55.00345519710408",
+    "label_dk": "Aakirkeby"
+  },
+  {
+    "title": "3730, Nexø",
+    "coordinates": "15.082712649477312,55.08671063933668",
+    "label_dk": "Nexø"
+  },
+  {
+    "title": "3740, Svaneke",
+    "coordinates": "15.081194173301226,55.15384549692113",
+    "label_dk": "Svaneke"
+  },
+  {
+    "title": "3751, Østermarie",
+    "coordinates": "15.039293529251859,55.17283592641235",
+    "label_dk": "Østermarie"
+  },
+  {
+    "title": "3760, Gudhjem",
+    "coordinates": "14.86158103146465,55.19850822110876",
+    "label_dk": "Gudhjem"
+  },
+  {
+    "title": "3770, Allinge",
+    "coordinates": "14.752568970691572,55.27329187143232",
+    "label_dk": "Allinge"
+  },
+  {
+    "title": "3782, Klemensker",
+    "coordinates": "14.871230542475672,55.19387727265951",
+    "label_dk": "Klemensker"
+  },
+  {
+    "title": "3790, Hasle",
+    "coordinates": "14.704386657453766,    55.18709054790958",
+    "label_dk": "Hasle"
+  },
+  {
+    "title": "4000, Roskilde",
+    "coordinates": "11.932603846670695,55.64739513042817",
+    "label_dk": "Roskilde"
+  },
+  {
+    "title": "4030, Tune",
+    "coordinates": "12.22218302046166,55.59164329823666",
+    "label_dk": "Tune"
+  },
+  {
+    "title": "4040, Jyllinge",
+    "coordinates": "12.09867694951468,55.739281013625494",
+    "label_dk": "Jyllinge"
+  },
+  {
+    "title": "4050, Skibby",
+    "coordinates": "12.079109380329916,    55.727969381528034",
+    "label_dk": "Skibby"
+  },
+  {
+    "title": "4060, Kirke Såby",
+    "coordinates": "11.835774005750775,    55.634506148992244",
+    "label_dk": "Kirke Såby"
+  },
+  {
+    "title": "4070, Kirke Hyllinge",
+    "coordinates": "11.83062799886255, 55.69312979090436",
+    "label_dk": "Kirke Hyllinge"
+  },
+  {
+    "title": "4100, Ringsted",
+    "coordinates": "11.70959441699613,  55.42109119398202",
+    "label_dk": "Ringsted"
+  },
+  {
+    "title": "4105, Ringsted Midtsjællands Postcenter",
+    "coordinates": "12.002791790882961,55.401883128593056",
+    "label_dk": "Ringsted Midtsjællands Postcenter"
+  },
+  {
+    "title": "4130, Viby Sjælland",
+    "coordinates": "12.01829266434463,    55.58642259391401",
+    "label_dk": "Viby Sjælland"
+  },
+  {
+    "title": "4140, Borup",
+    "coordinates": "12.022345775168528,55.50012983571157",
+    "label_dk": "Borup"
+  },
+  {
+    "title": "4160, Herlufmagle",
+    "coordinates": "11.64520864244153,55.320140181893194",
+    "label_dk": "Herlufmagle"
+  },
+  {
+    "title": "4171, Glumsø",
+    "coordinates": "11.722343500199313,55.40496933990284",
+    "label_dk": "Glumsø"
+  },
+  {
+    "title": "4173, Fjenneslev",
+    "coordinates": "11.618060393166356,55.44190936241812",
+    "label_dk": "Fjenneslev"
+  },
+  {
+    "title": "4174, Jystrup Midtsjælland",
+    "coordinates": "11.808951610075045,55.54436188767444",
+    "label_dk": "Jystrup Midtsjælland"
+  },
+  {
+    "title": "4180, Sorø",
+    "coordinates": "11.474515104410989, 55.40801584250093",
+    "label_dk": "Sorø"
+  },
+  {
+    "title": "4190, Munke Bjergby",
+    "coordinates": "11.535143219789505,55.5214264245079",
+    "label_dk": "Munke Bjergby"
+  },
+  {
+    "title": "4200, Slagelse",
+    "coordinates": "11.247380087507139,55.38960604952609",
+    "label_dk": "Slagelse"
+  },
+  {
+    "title": "4220, Korsør",
+    "coordinates": "11.130231287406044,55.32621615139893",
+    "label_dk": "Korsør"
+  },
+  {
+    "title": "4230, Skælskør",
+    "coordinates": "11.162842028504876,55.15837074097476",
+    "label_dk": "Skælskør"
+  },
+  {
+    "title": "4241, Vemmelev",
+    "coordinates": "11.272689044517627,55.3303162068397",
+    "label_dk": "Vemmelev"
+  },
+  {
+    "title": "4242, Boeslunde",
+    "coordinates": "11.231293599794004,55.31539488541926",
+    "label_dk": "Boeslunde"
+  },
+  {
+    "title": "4243, Rude",
+    "coordinates": "11.484832892710838,55.20585905147652",
+    "label_dk": "Rude"
+  },
+  {
+    "title": "4250, Fuglebjerg",
+    "coordinates": "11.473713209586112,55.29706029766558",
+    "label_dk": "Fuglebjerg"
+  },
+  {
+    "title": "4261, Dalmose",
+    "coordinates": "11.38080128968312,55.30371412332024",
+    "label_dk": "Dalmose"
+  },
+  {
+    "title": "4262, Sandved",
+    "coordinates": "11.508961869312014,55.28305324572017",
+    "label_dk": "Sandved"
+  },
+  {
+    "title": "4270, Høng",
+    "coordinates": "11.316062268811729, 55.55875084079782",
+    "label_dk": "Høng"
+  },
+  {
+    "title": "4281, Gørlev",
+    "coordinates": "11.155329124329912,55.506651630203066",
+    "label_dk": "Gørlev"
+  },
+  {
+    "title": "4291, Ruds Vedby",
+    "coordinates": "11.319639309446904,55.59499010334427",
+    "label_dk": "Ruds Vedby"
+  },
+  {
+    "title": "4293, Dianalund",
+    "coordinates": "11.450794669714444,55.55790644097672",
+    "label_dk": "Dianalund"
+  },
+  {
+    "title": "4295, Stenlille",
+    "coordinates": "11.594543648125464,55.58018785807997",
+    "label_dk": "Stenlille"
+  },
+  {
+    "title": "4296, Nyrup",
+    "coordinates": "11.667142843338675,55.54710056902704",
+    "label_dk": "Nyrup"
+  },
+  {
+    "title": "4300, Holbæk",
+    "coordinates": "11.838800401088227,55.746113224161085",
+    "label_dk": "Holbæk"
+  },
+  {
+    "title": "4320, Lejre",
+    "coordinates": "11.93100486683125,55.62015927196033",
+    "label_dk": "Lejre"
+  },
+  {
+    "title": "4330, Hvalsø",
+    "coordinates": "11.816491966205158,55.62754899381311",
+    "label_dk": "Hvalsø"
+  },
+  {
+    "title": "4340, Tølløse",
+    "coordinates": "11.684184415969916, 55.62781508345043",
+    "label_dk": "Tølløse"
+  },
+  {
+    "title": "4350, Ugerløse",
+    "coordinates": "11.692828147106447,55.59672152443597",
+    "label_dk": "Ugerløse"
+  },
+  {
+    "title": "4360, Kirke Eskilstrup",
+    "coordinates": "11.774226503374976,55.58308923764639",
+    "label_dk": "Kirke Eskilstrup"
+  },
+  {
+    "title": "4370, Store Merløse",
+    "coordinates": "11.70395714507546, 55.579951335016865",
+    "label_dk": "Store Merløse"
+  },
+  {
+    "title": "4390, Vipperød",
+    "coordinates": "11.78796298640709,55.687725197860296",
+    "label_dk": "Vipperød"
+  },
+  {
+    "title": "4400, Kalundborg",
+    "coordinates": "11.026211068531786,55.65227142243685",
+    "label_dk": "Kalundborg"
+  },
+  {
+    "title": "4420, Regstrup",
+    "coordinates": "11.641382490924402,    55.69581329355655",
+    "label_dk": "Regstrup"
+  },
+  {
+    "title": "4440, Mørkøv",
+    "coordinates": "11.463821405717653,    55.697317930806214",
+    "label_dk": "Mørkøv"
+  },
+  {
+    "title": "4450, Jyderup",
+    "coordinates": "11.3732208705935,    55.67973917185525",
+    "label_dk": "Jyderup"
+  },
+  {
+    "title": "4460, Snertinge",
+    "coordinates": "11.395219578252236,    55.69268196404667",
+    "label_dk": "Snertinge"
+  },
+  {
+    "title": "4470, Svebølle",
+    "coordinates": "11.334568067521436,    55.61685804930462",
+    "label_dk": "Svebølle"
+  },
+  {
+    "title": "4480, Store Fuglede",
+    "coordinates": "11.185352871574745,    55.592160323254674",
+    "label_dk": "Store Fuglede"
+  },
+  {
+    "title": "4490, Jerslev Sjælland",
+    "coordinates": "11.257255569686855,55.63935677251296",
+    "label_dk": "Jerslev Sjælland"
+  },
+  {
+    "title": "4500, Nykøbing Sjælland",
+    "coordinates": "11.477083489271614,  55.94491550342092",
+    "label_dk": "Nykøbing Sjælland"
+  },
+  {
+    "title": "4520, Svinninge",
+    "coordinates": "11.534367889220473, 55.772255626378666",
+    "label_dk": "Svinninge"
+  },
+  {
+    "title": "4532, Gislinge",
+    "coordinates": "11.595090223528837,   55.726066535376795",
+    "label_dk": "Gislinge"
+  },
+  {
+    "title": "4534, Hørve",
+    "coordinates": "11.388548783180287,  55.78508792314511",
+    "label_dk": "Hørve"
+  },
+  {
+    "title": "4540, Fårevejle",
+    "coordinates": "11.375810370081068,    55.81511092971547",
+    "label_dk": "Fårevejle"
+  },
+  {
+    "title": "4550, Asnæs",
+    "coordinates": "11.535183784406657,55.809869360738574",
+    "label_dk": "Asnæs"
+  },
+  {
+    "title": "4560, Vig",
+    "coordinates": "11.524521742205227, 55.87864311238793",
+    "label_dk": "Vig"
+  },
+  {
+    "title": "4571, Grevinge",
+    "coordinates": "11.659211220521392,55.81560633547957",
+    "label_dk": "Grevinge"
+  },
+  {
+    "title": "4572, Nørre Asmindrup",
+    "coordinates": "11.61449263602401,55.86743379060685",
+    "label_dk": "Nørre Asmindrup"
+  },
+  {
+    "title": "4573, Højby",
+    "coordinates": "11.529621191777691, 55.90073961403118",
+    "label_dk": "Højby"
+  },
+  {
+    "title": "4581, Rørvig",
+    "coordinates": "11.750379334820927,55.96873313727379",
+    "label_dk": "Rørvig"
+  },
+  {
+    "title": "4583, Sjællands Odde",
+    "coordinates": "11.332038863952056,55.97021668357525",
+    "label_dk": "Sjællands Odde"
+  },
+  {
+    "title": "4591, Føllenslev",
+    "coordinates": "11.291398958462912,55.753438329992875",
+    "label_dk": "Føllenslev"
+  },
+  {
+    "title": "4592, Sejerø",
+    "coordinates": "11.120715360133858,55.90512013190848",
+    "label_dk": "Sejerø"
+  },
+  {
+    "title": "4593, Eskebjerg",
+    "coordinates": "11.235015030202925,55.7400966228732",
+    "label_dk": "Eskebjerg"
+  },
+  {
+    "title": "4600, Køge",
+    "coordinates": "12.156603901474066, 55.50013768886583",
+    "label_dk": "Køge"
+  },
+  {
+    "title": "4621, Gadstrup",
+    "coordinates": "12.148985246765632,55.56526438925936",
+    "label_dk": "Gadstrup"
+  },
+  {
+    "title": "4622, Havdrup",
+    "coordinates": "12.126255637077803,55.557970950917394",
+    "label_dk": "Havdrup"
+  },
+  {
+    "title": "4623, Lille Skensved",
+    "coordinates": "12.16964279046979,55.51615442387456",
+    "label_dk": "Lille Skensved"
+  },
+  {
+    "title": "4632, Bjæverskov",
+    "coordinates": "12.0111654794548,55.46840081726939",
+    "label_dk": "Bjæverskov"
+  },
+  {
+    "title": "4640, Fakse",
+    "coordinates": "12.063708386251834,55.22727963316192",
+    "label_dk": "Fakse"
+  },
+  {
+    "title": "4652, Hårlev",
+    "coordinates": "12.24557166498225,55.3914364108534",
+    "label_dk": "Hårlev"
+  },
+  {
+    "title": "4653, Karise",
+    "coordinates": "12.227917586854025,55.32986298613523",
+    "label_dk": "Karise"
+  },
+  {
+    "title": "4654, Fakse Ladeplads",
+    "coordinates": "12.187361574871295,55.22259914159489",
+    "label_dk": "Fakse Ladeplads"
+  },
+  {
+    "title": "4660, Store Heddinge",
+    "coordinates": "12.31974352549764,55.32155586366513",
+    "label_dk": "Store Heddinge"
+  },
+  {
+    "title": "4671, Strøby",
+    "coordinates": "12.280711649242269,55.408019505600215",
+    "label_dk": "Strøby"
+  },
+  {
+    "title": "4672, Klippinge",
+    "coordinates": "12.334389688823892,55.333230137959845",
+    "label_dk": "Klippinge"
+  },
+  {
+    "title": "4673, Rødvig Stevns",
+    "coordinates": "12.42592013248161,55.26735298849797",
+    "label_dk": "Rødvig Stevns"
+  },
+  {
+    "title": "4681, Herfølge",
+    "coordinates": "12.065972909644143,55.411469116896825",
+    "label_dk": "Herfølge"
+  },
+  {
+    "title": "4682, Tureby",
+    "coordinates": "12.118457488896563,55.39555102345831",
+    "label_dk": "Tureby"
+  },
+  {
+    "title": "4683, Rønnede",
+    "coordinates": "12.056324560109516,55.2038880965214",
+    "label_dk": "Rønnede"
+  },
+  {
+    "title": "4684, Holmegaard",
+    "coordinates": "11.794155153618606,55.29234887332451",
+    "label_dk": "Holmegaard"
+  },
+  {
+    "title": "4690, Haslev",
+    "coordinates": "11.918629417934845,55.36665669487174",
+    "label_dk": "Haslev"
+  },
+  {
+    "title": "4700, Næstved",
+    "coordinates": "11.794340827389876,55.15380361602817",
+    "label_dk": "Næstved"
+  },
+  {
+    "title": "4720, Præstø",
+    "coordinates": "12.121313467842759,    55.13114549876621",
+    "label_dk": "Præstø"
+  },
+  {
+    "title": "4733, Tappernøje",
+    "coordinates": "12.022683087158551,   55.2120567935294",
+    "label_dk": "Tappernøje"
+  },
+  {
+    "title": "4735, Mern",
+    "coordinates": "12.094104260828688,55.06840958842342",
+    "label_dk": "Mern"
+  },
+  {
+    "title": "4736, Karrebæksminde",
+    "coordinates": "11.681464129591882,55.19237062534012",
+    "label_dk": "Karrebæksminde"
+  },
+  {
+    "title": "4750, Lundby",
+    "coordinates": "11.756390996560429,55.0909122587355",
+    "label_dk": "Lundby"
+  },
+  {
+    "title": "4760, Vordingborg",
+    "coordinates": "11.967684551466853,54.983362070297034",
+    "label_dk": "Vordingborg"
+  },
+  {
+    "title": "4771, Kalvehave",
+    "coordinates": "12.156253281937047,55.01950252854349",
+    "label_dk": "Kalvehave"
+  },
+  {
+    "title": "4772, Langebæk",
+    "coordinates": "12.097335575571591,54.959834449561136",
+    "label_dk": "Langebæk"
+  },
+  {
+    "title": "4773, Stensved",
+    "coordinates": "12.038632130510447,55.00698806227493",
+    "label_dk": "Stensved"
+  },
+  {
+    "title": "4780, Stege",
+    "coordinates": "12.237322010176786,55.030282416882514",
+    "label_dk": "Stege"
+  },
+  {
+    "title": "4791, Borre",
+    "coordinates": "12.491810969880769,55.01434641133841",
+    "label_dk": "Borre"
+  },
+  {
+    "title": "4792, Askeby",
+    "coordinates": " 12.112089773180276, 54.920697123376144",
+    "label_dk": "Askeby"
+  },
+  {
+    "title": "4793, Bogø By",
+    "coordinates": "12.047575616749205,54.91368409954598",
+    "label_dk": "Bogø By"
+  },
+  {
+    "title": "4800, Nykøbing Falster",
+    "coordinates": "11.871313000850716,54.75793144264032",
+    "label_dk": "Nykøbing Falster"
+  },
+  {
+    "title": "4840, Nørre Alslev",
+    "coordinates": "11.773251088299276,54.876795044637014",
+    "label_dk": "Nørre Alslev"
+  },
+  {
+    "title": "4850, Stubbekøbing",
+    "coordinates": "11.981113235673687,54.915873370525325",
+    "label_dk": "Stubbekøbing"
+  },
+  {
+    "title": "4862, Guldborg",
+    "coordinates": "11.758384491503708,54.860821713372424",
+    "label_dk": "Guldborg"
+  },
+  {
+    "title": "4863, Eskilstrup",
+    "coordinates": "11.806999298308085,54.842059133825806",
+    "label_dk": "Eskilstrup"
+  },
+  {
+    "title": "4871, Horbelev",
+    "coordinates": "12.129182760615823,54.81572679269083",
+    "label_dk": "Horbelev"
+  },
+  {
+    "title": "4872, Idestrup",
+    "coordinates": "12.02759057422366,54.73575957486902",
+    "label_dk": "Idestrup"
+  },
+  {
+    "title": "4873, Væggerløse",
+    "coordinates": "11.901326922554462,54.70636550327005",
+    "label_dk": "Væggerløse"
+  },
+  {
+    "title": "4874, Gedser",
+    "coordinates": "11.972896651254882,54.56212322073863",
+    "label_dk": "Gedser"
+  },
+  {
+    "title": "4880, Nysted",
+    "coordinates": "11.675760162774251,54.71626462354128",
+    "label_dk": "Nysted"
+  },
+  {
+    "title": "4891, Toreby Lolland",
+    "coordinates": "11.717969842036672,54.7741276820587",
+    "label_dk": "Toreby Lolland"
+  },
+  {
+    "title": "4892, Kettinge",
+    "coordinates": "11.816791861658379,54.70709320070424",
+    "label_dk": "Kettinge"
+  },
+  {
+    "title": "4894, Øster Ulslev",
+    "coordinates": "11.600683768558898, 54.6458491927239",
+    "label_dk": "Øster Ulslev"
+  },
+  {
+    "title": "4895, Errindlev",
+    "coordinates": "11.561775316536773,54.65497652314668",
+    "label_dk": "Errindlev"
+  },
+  {
+    "title": "4900, Nakskov",
+    "coordinates": "11.019881170484487,54.82954088269825",
+    "label_dk": "Nakskov"
+  },
+  {
+    "title": "4912, Harpelunde",
+    "coordinates": "11.063210080115086,54.85695535579082",
+    "label_dk": "Harpelunde"
+  },
+  {
+    "title": "4913, Horslunde",
+    "coordinates": "11.120410463306136,54.93654407935174",
+    "label_dk": "Horslunde"
+  },
+  {
+    "title": "4920, Søllested",
+    "coordinates": "11.21390697987701, 54.78990170532783",
+    "label_dk": "Søllested"
+  },
+  {
+    "title": "4930, Maribo",
+    "coordinates": "11.405522962010272,54.80384543773217",
+    "label_dk": "Maribo"
+  },
+  {
+    "title": "4941, Bandholm",
+    "coordinates": "11.43535359157444,54.86364251435684",
+    "label_dk": "Bandholm"
+  },
+  {
+    "title": "4943, Torrig Lolland",
+    "coordinates": "11.35235581158802,54.91856683297459",
+    "label_dk": "Torrig Lolland"
+  },
+  {
+    "title": "4944, Fejø",
+    "coordinates": " 11.402962220683989, 54.948094686577086",
+    "label_dk": "Fejø"
+  },
+  {
+    "title": "4951, Nørreballe",
+    "coordinates": "11.456978363218896, 54.81007661405693",
+    "label_dk": "Nørreballe"
+  },
+  {
+    "title": "4952, Stokkemarke",
+    "coordinates": "11.310768903219873,54.85205372457362",
+    "label_dk": "Stokkemarke"
+  },
+  {
+    "title": "4953, Vesterborg",
+    "coordinates": "11.340710609512898,   54.88660520019969",
+    "label_dk": "Vesterborg"
+  },
+  {
+    "title": "4960, Holeby",
+    "coordinates": "11.523750016216496,54.72922086319635",
+    "label_dk": "Holeby"
+  },
+  {
+    "title": "4970, Rødby",
+    "coordinates": "11.426133759390469, 54.70316209773822",
+    "label_dk": "Rødby"
+  },
+  {
+    "title": "4983, Dannemare",
+    "coordinates": "11.12495449830547, 54.778393271368635",
+    "label_dk": "Dannemare"
+  },
+  {
+    "title": "4990, Sakskøbing",
+    "coordinates": "11.555023414822088,54.8290445682194",
+    "label_dk": "Sakskøbing"
+  },
+  {
+    "title": "5000, Odense C",
+    "coordinates": "10.359178085315682,55.41337432451998",
+    "label_dk": "Odense C"
+  },
+  {
+    "title": "5090, Odense C Fyns Postcenter",
+    "coordinates": "10.416454644019833,    55.39326559194981",
+    "label_dk": "Odense C Fyns Postcenter"
+  },
+  {
+    "title": "5200, Odense V",
+    "coordinates": "10.255809200794594,    55.41115047304916",
+    "label_dk": "Odense V"
+  },
+  {
+    "title": "5210, Odense NV",
+    "coordinates": "10.323890533429921,55.40753170934095",
+    "label_dk": "Odense NV"
+  },
+  {
+    "title": "5220, Odense SØ",
+    "coordinates": "10.434333785233868,55.36494467263049",
+    "label_dk": "Odense SØ"
+  },
+  {
+    "title": "5230, Odense M",
+    "coordinates": "10.423392638160783,    55.38428519188558",
+    "label_dk": "Odense M"
+  },
+  {
+    "title": "5240, Odense NØ",
+    "coordinates": "10.434443451148407,55.43913222490277",
+    "label_dk": "Odense NØ"
+  },
+  {
+    "title": "5250, Odense SV",
+    "coordinates": "10.288534976944208,55.38162750929472",
+    "label_dk": "Odense SV"
+  },
+  {
+    "title": "5260, Odense S",
+    "coordinates": "10.29261333102003, 55.32188648445714",
+    "label_dk": "Odense S"
+  },
+  {
+    "title": "5270, Odense N",
+    "coordinates": "10.354731374714978,55.481996576897046",
+    "label_dk": "Odense N"
+  },
+  {
+    "title": "5290, Marslev",
+    "coordinates": "10.577925934430572, 55.392504849624395",
+    "label_dk": "Marslev"
+  },
+  {
+    "title": "5300, Kerteminde",
+    "coordinates": "10.581602096312169, 55.42541063621867",
+    "label_dk": "Kerteminde"
+  },
+  {
+    "title": "5320, Agedrup",
+    "coordinates": "10.465407912439728,55.43991559627869",
+    "label_dk": "Agedrup"
+  },
+  {
+    "title": "5330, Munkebo",
+    "coordinates": "10.493727973575998,55.45602804571195",
+    "label_dk": "Munkebo"
+  },
+  {
+    "title": "5350, Rynkeby",
+    "coordinates": "10.645086782338302,55.39982475935167",
+    "label_dk": "Rynkeby"
+  },
+  {
+    "title": "5370, Mesinge",
+    "coordinates": "10.603838146905304,55.50961674650066",
+    "label_dk": "Mesinge"
+  },
+  {
+    "title": "5380, Dalby",
+    "coordinates": "10.644276457462073,55.52945807957349",
+    "label_dk": "Dalby"
+  },
+  {
+    "title": "5390, Martofte",
+    "coordinates": "10.619014625826395,55.536746310508214",
+    "label_dk": "Martofte"
+  },
+  {
+    "title": "5400, Bogense",
+    "coordinates": "10.100163434919741,55.58368756019648",
+    "label_dk": "Bogense"
+  },
+  {
+    "title": "5450, Otterup",
+    "coordinates": "10.488103179290032,55.53004874047943",
+    "label_dk": "Otterup"
+  },
+  {
+    "title": "5462, Morud",
+    "coordinates": "10.253647062811797,55.45752281325011",
+    "label_dk": "Morud"
+  },
+  {
+    "title": "5463, Harndrup",
+    "coordinates": "10.057615270103586,55.43837246877365",
+    "label_dk": "Harndrup"
+  },
+  {
+    "title": "5464, Brenderup Fyn",
+    "coordinates": "10.02980158261306,55.48541425115635",
+    "label_dk": "Brenderup Fyn"
+  },
+  {
+    "title": "5466, Asperup",
+    "coordinates": "9.952986181197794,55.514977996822495",
+    "label_dk": "Asperup"
+  },
+  {
+    "title": "5471, Søndersø",
+    "coordinates": "10.046833007502702,55.510704330292434",
+    "label_dk": "Søndersø"
+  },
+  {
+    "title": "5474, Veflinge",
+    "coordinates": "10.151859917268306,55.484686629573",
+    "label_dk": "Veflinge"
+  },
+  {
+    "title": "5485, Skamby",
+    "coordinates": "10.241812314419734,55.52626864772333",
+    "label_dk": "Skamby"
+  },
+  {
+    "title": "5491, Blommenslyst",
+    "coordinates": "10.25348305627414,55.399499683726575",
+    "label_dk": "Blommenslyst"
+  },
+  {
+    "title": "5492, Vissenbjerg",
+    "coordinates": "10.184386554540202,55.413637029482786",
+    "label_dk": "Vissenbjerg"
+  },
+  {
+    "title": "5500, Middelfart",
+    "coordinates": "9.782302287249387,55.45523833163824",
+    "label_dk": "Middelfart"
+  },
+  {
+    "title": "5540, Ullerslev",
+    "coordinates": "10.645086782338302,55.39982475935167",
+    "label_dk": "Ullerslev"
+  },
+  {
+    "title": "5550, Langeskov",
+    "coordinates": "10.631935279496869,55.37510112886734",
+    "label_dk": "Langeskov"
+  },
+  {
+    "title": "5560, Aarup",
+    "coordinates": "9.999103134570282,55.38670056540404",
+    "label_dk": "Aarup"
+  },
+  {
+    "title": "5580, Nørre Aaby",
+    "coordinates": "9.740938155856806,55.4393118861488",
+    "label_dk": "Nørre Aaby"
+  },
+  {
+    "title": "5591, Gelsted",
+    "coordinates": "9.989043309527133,    55.43135730946256",
+    "label_dk": "Gelsted"
+  },
+  {
+    "title": "5592, Ejby",
+    "coordinates": "9.840007342081247,55.35045461993231",
+    "label_dk": "Ejby"
+  },
+  {
+    "title": "5600, Faaborg",
+    "coordinates": "10.340461064639738,55.04436899053698",
+    "label_dk": "Faaborg"
+  },
+  {
+    "title": "5610, Assens",
+    "coordinates": "9.877682834510193,55.25049535901898",
+    "label_dk": "Assens"
+  },
+  {
+    "title": "5620, Glamsbjerg",
+    "coordinates": "10.02746770537965,55.22939348395935",
+    "label_dk": "Glamsbjerg"
+  },
+  {
+    "title": "5631, Ebberup",
+    "coordinates": "9.965052961033265,55.26296349437876",
+    "label_dk": "Ebberup"
+  },
+  {
+    "title": "5642, Millinge",
+    "coordinates": "10.10805098040281, 55.13085943482361",
+    "label_dk": "Millinge"
+  },
+  {
+    "title": "5672, Broby",
+    "coordinates": "10.198692105821205,55.19389861704028",
+    "label_dk": "Broby"
+  },
+  {
+    "title": "5683, Haarby",
+    "coordinates": "10.095796619460526,55.18450434949479",
+    "label_dk": "Haarby"
+  },
+  {
+    "title": "5690, Tommerup",
+    "coordinates": "10.193956248351633,55.36590448733679",
+    "label_dk": "Tommerup"
+  },
+  {
+    "title": "5700, Svendborg",
+    "coordinates": "10.392051957315077,54.97766126997095",
+    "label_dk": "Svendborg"
+  },
+  {
+    "title": "5750, Ringe",
+    "coordinates": "10.332651186314784,55.24173721647523",
+    "label_dk": "Ringe"
+  },
+  {
+    "title": "5762, Vester Skerninge",
+    "coordinates": "10.38861652165584,55.05148629549749",
+    "label_dk": "Vester Skerninge"
+  },
+  {
+    "title": "5771, Stenstrup",
+    "coordinates": "10.52521811970361,55.16615400901605",
+    "label_dk": "Stenstrup"
+  },
+  {
+    "title": "5772, Kværndrup",
+    "coordinates": "10.614300906934211,55.175910520590904",
+    "label_dk": "Kværndrup"
+  },
+  {
+    "title": "5792, Årslev",
+    "coordinates": "10.506544395286708,55.28437490735167",
+    "label_dk": "Årslev"
+  },
+  {
+    "title": "5800, Nyborg",
+    "coordinates": "10.819660052915305,55.31034149585334",
+    "label_dk": "Nyborg"
+  },
+  {
+    "title": "5853, Ørbæk",
+    "coordinates": "10.696741426243259,55.32718547715018",
+    "label_dk": "Ørbæk"
+  },
+  {
+    "title": "5854, Gislev",
+    "coordinates": "10.596126804363342,55.192351223959456",
+    "label_dk": "Gislev"
+  },
+  {
+    "title": "5856, Ryslinge",
+    "coordinates": "10.599160016337995,55.23161369369403",
+    "label_dk": "Ryslinge"
+  },
+  {
+    "title": "5863, Ferritslev Fyn",
+    "coordinates": "10.614288093667,55.30108805974487",
+    "label_dk": "Ferritslev Fyn"
+  },
+  {
+    "title": "5871, Frørup",
+    "coordinates": "10.814811301733142,55.22898597954545",
+    "label_dk": "Frørup"
+  },
+  {
+    "title": "5874, Hesselager",
+    "coordinates": "10.80639895967917,55.184927444003236",
+    "label_dk": "Hesselager"
+  },
+  {
+    "title": "5881, Skårup Fyn",
+    "coordinates": "10.705494140892263,55.056896005279576",
+    "label_dk": "Skårup Fyn"
+  },
+  {
+    "title": "5882, Vejstrup",
+    "coordinates": "10.709451148718843, 55.097689969255434",
+    "label_dk": "Vejstrup"
+  },
+  {
+    "title": "5883, Oure",
+    "coordinates": "10.75784663550955,55.13251080953026",
+    "label_dk": "Oure"
+  },
+  {
+    "title": "5884, Gudme",
+    "coordinates": "10.716167610041179,55.16570828335468",
+    "label_dk": "Gudme"
+  },
+  {
+    "title": "5892, Gudbjerg Sydfyn",
+    "coordinates": "10.687975029814382,55.1825223008997",
+    "label_dk": "Gudbjerg Sydfyn"
+  },
+  {
+    "title": "5900, Rudkøbing",
+    "coordinates": "10.547460716765789,54.90193175758775",
+    "label_dk": "Rudkøbing"
+  },
+  {
+    "title": "5932, Humble",
+    "coordinates": "10.601042027451186,54.83250774869979",
+    "label_dk": "Humble"
+  },
+  {
+    "title": "5935, Bagenkop",
+    "coordinates": "10.70642490921543,54.725147426369126",
+    "label_dk": "Bagenkop"
+  },
+  {
+    "title": "5953, Tranekær",
+    "coordinates": "10.807293554444517,54.99386889514605",
+    "label_dk": "Tranekær"
+  },
+  {
+    "title": "5960, Marstal",
+    "coordinates": "10.478128854193823,54.8660177609536",
+    "label_dk": "Marstal"
+  },
+  {
+    "title": "5970, Ærøskøbing",
+    "coordinates": "10.430402804085597,54.88238939270102",
+    "label_dk": "Ærøskøbing"
+  },
+  {
+    "title": "5985, Søby Ærø",
+    "coordinates": "10.244057611389106,54.922870376062974",
+    "label_dk": "Søby Ærø"
+  },
+  {
+    "title": "6000, Kolding",
+    "coordinates": "9.364302094671029,55.50731958164491",
+    "label_dk": "Kolding"
+  },
+  {
+    "title": "6040, Egtved",
+    "coordinates": "9.219489552618963,55.61549149185932",
+    "label_dk": "Egtved"
+  },
+  {
+    "title": "6051, Almind",
+    "coordinates": "9.481202891533874,55.55064141235298",
+    "label_dk": "Almind"
+  },
+  {
+    "title": "6052, Viuf",
+    "coordinates": "9.528396530519347,55.569711985713504",
+    "label_dk": "Viuf"
+  },
+  {
+    "title": "6064, Jordrup",
+    "coordinates": "9.3670182079543,55.54489967879983",
+    "label_dk": "Jordrup"
+  },
+  {
+    "title": "6070, Christiansfeld",
+    "coordinates": "9.317584450138328,55.36523493916107",
+    "label_dk": "Christiansfeld"
+  },
+  {
+    "title": "6091, Bjert",
+    "coordinates": " 9.544835492022754,55.49014182505472",
+    "label_dk": "Bjert"
+  },
+  {
+    "title": "6092, Sønder Stenderup",
+    "coordinates": " 9.655023344130166,55.48368927942212",
+    "label_dk": "Sønder Stenderup"
+  },
+  {
+    "title": "6093, Sjølund",
+    "coordinates": "9.546352173766348,55.38237447712987",
+    "label_dk": "Sjølund"
+  },
+  {
+    "title": "6094, Hejls",
+    "coordinates": "9.613214922861108,55.39591534663385",
+    "label_dk": "Hejls"
+  },
+  {
+    "title": "6100, Haderslev",
+    "coordinates": "9.767366101914655,55.26477211935777",
+    "label_dk": "Haderslev"
+  },
+  {
+    "title": "6200, Aabenraa",
+    "coordinates": "9.354540741478203,54.9515174739971",
+    "label_dk": "Aabenraa"
+  },
+  {
+    "title": "6230, Rødekro",
+    "coordinates": "9.211655739914724,55.099383701425396",
+    "label_dk": "Rødekro"
+  },
+  {
+    "title": "6240, Løgumkloster",
+    "coordinates": "8.873229280559423,55.06613796124789",
+    "label_dk": "Løgumkloster"
+  },
+  {
+    "title": "6261, Bredebro",
+    "coordinates": "8.673672654844989,55.126338439967355",
+    "label_dk": "Bredebro"
+  },
+  {
+    "title": "6270, Tønder",
+    "coordinates": "8.910513470144993,54.90386171572398",
+    "label_dk": "Tønder"
+  },
+  {
+    "title": "6280, Højer",
+    "coordinates": "8.668582498433219,54.91128806334402",
+    "label_dk": "Højer"
+  },
+  {
+    "title": "6300, Gråsten",
+    "coordinates": "9.567780768673709,54.952670989011665",
+    "label_dk": "Gråsten"
+  },
+  {
+    "title": "6310, Broager",
+    "coordinates": "9.740951698213252,54.87957308394551",
+    "label_dk": "Broager"
+  },
+  {
+    "title": "6320, Egernsund",
+    "coordinates": "9.628329488793863,54.90442046068708",
+    "label_dk": "Egernsund"
+  },
+  {
+    "title": "6330, Padborg",
+    "coordinates": "9.37400251248061,54.86852542999522",
+    "label_dk": "Padborg"
+  },
+  {
+    "title": "6340, Kruså",
+    "coordinates": "9.517042355058617,54.871386187629135",
+    "label_dk": "Kruså"
+  },
+  {
+    "title": "6360, Tinglev",
+    "coordinates": "9.122818574894252,54.952707399559024",
+    "label_dk": "Tinglev"
+  },
+  {
+    "title": "6372, Bylderup-Bov",
+    "coordinates": "9.027265554850985,54.881361525033086",
+    "label_dk": "Bylderup-Bov"
+  },
+  {
+    "title": "6392, Bolderslev",
+    "coordinates": "9.302023537573127,55.01348819253147",
+    "label_dk": "Bolderslev"
+  },
+  {
+    "title": "6400, Sønderborg",
+    "coordinates": "9.672052227551644,54.9979963961849",
+    "label_dk": "Sønderborg"
+  },
+  {
+    "title": "6430, Nordborg",
+    "coordinates": "9.840520142128796,54.97171431350578",
+    "label_dk": "Nordborg"
+  },
+  {
+    "title": "6440, Augustenborg",
+    "coordinates": "9.857628274435825,54.94173164835997",
+    "label_dk": "Augustenborg"
+  },
+  {
+    "title": "6470, Sydals",
+    "coordinates": "10.039951554189761,54.93647129202237",
+    "label_dk": "Sydals"
+  },
+  {
+    "title": "6500, Vojens",
+    "coordinates": "9.250640777505344,55.18993053828009",
+    "label_dk": "Vojens"
+  },
+  {
+    "title": "6510, Gram",
+    "coordinates": "8.966897919987238,55.32370237619134",
+    "label_dk": "Gram"
+  },
+  {
+    "title": "6520, Toftlund",
+    "coordinates": "9.130702432009834,55.23472752315218",
+    "label_dk": "Toftlund"
+  },
+  {
+    "title": "6534, Agerskov",
+    "coordinates": "9.231715145968948,55.152153879931795",
+    "label_dk": "Agerskov"
+  },
+  {
+    "title": "6535, Branderup Jylland",
+    "coordinates": "8.982851139255141,55.12845597969597",
+    "label_dk": "Branderup Jylland"
+  },
+  {
+    "title": "6541, Bevtoft",
+    "coordinates": "9.231715145968948,55.152153879931795",
+    "label_dk": "Bevtoft"
+  },
+  {
+    "title": "6560, Sommersted",
+    "coordinates": "9.226172997537862,55.35129816650529",
+    "label_dk": "Sommersted"
+  },
+  {
+    "title": "6580, Vamdrup",
+    "coordinates": "9.455887104994689,55.40866756222594",
+    "label_dk": "Vamdrup"
+  },
+  {
+    "title": "6600, Vejen",
+    "coordinates": "9.040590451777021,55.51159388925687",
+    "label_dk": "Vejen"
+  },
+  {
+    "title": "6621, Gesten",
+    "coordinates": "9.244780629697095,55.51003919522971",
+    "label_dk": "Gesten"
+  },
+  {
+    "title": "6622, Bække",
+    "coordinates": "9.214975353581645,55.57773263481658",
+    "label_dk": "Bække"
+  },
+  {
+    "title": "6623, Vorbasse",
+    "coordinates": "9.123452396962609,55.60746508082852",
+    "label_dk": "Vorbasse"
+  },
+  {
+    "title": "6630, Rødding",
+    "coordinates": "9.039191030767885,55.42506447924244",
+    "label_dk": "Rødding"
+  },
+  {
+    "title": "6640, Lunderskov",
+    "coordinates": "9.302786235422174,55.52734971076539",
+    "label_dk": "Lunderskov"
+  },
+  {
+    "title": "6650, Brørup",
+    "coordinates": "8.959301465972974,55.523803741418796",
+    "label_dk": "Brørup"
+  },
+  {
+    "title": "6660, Lintrup",
+    "coordinates": "9.00695242083952,55.43785391119155",
+    "label_dk": "Lintrup"
+  },
+  {
+    "title": "6670, Holsted",
+    "coordinates": "8.903233908608673,55.567446793315824",
+    "label_dk": "Holsted"
+  },
+  {
+    "title": "6682, Hovborg",
+    "coordinates": "8.998228680382843,55.593525218808786",
+    "label_dk": "Hovborg"
+  },
+  {
+    "title": "6683, Føvling",
+    "coordinates": "8.940304941812753,55.414903946439125",
+    "label_dk": "Føvling"
+  },
+  {
+    "title": "6690, Gørding",
+    "coordinates": "8.839103892151769,55.42872103253519",
+    "label_dk": "Gørding"
+  },
+  {
+    "title": "6700, Esbjerg",
+    "coordinates": "8.441511077943229,55.457353773469855",
+    "label_dk": "Esbjerg"
+  },
+  {
+    "title": "6705, Esbjerg Ø",
+    "coordinates": "8.489311698563942,55.456571034727986",
+    "label_dk": "Esbjerg Ø"
+  },
+  {
+    "title": "6710, Esbjerg V",
+    "coordinates": "8.365228340062455,55.51635177457966",
+    "label_dk": "Esbjerg V"
+  },
+  {
+    "title": "6715, Esbjerg N",
+    "coordinates": "8.58345852516249,55.52267981015992",
+    "label_dk": "Esbjerg N"
+  },
+  {
+    "title": "6720, Fanø",
+    "coordinates": "8.375010536180602,55.41567888038109",
+    "label_dk": "Fanø"
+  },
+  {
+    "title": "6731, Tjæreborg",
+    "coordinates": "8.638574678298282,55.47509340634121",
+    "label_dk": "Tjæreborg"
+  },
+  {
+    "title": "6740, Bramming",
+    "coordinates": "8.634443082741866,55.46637175425242",
+    "label_dk": "Bramming"
+  },
+  {
+    "title": "6752, Glejbjerg",
+    "coordinates": "8.906320305720167,55.56420763992098",
+    "label_dk": "Glejbjerg"
+  },
+  {
+    "title": "6753, Agerbæk",
+    "coordinates": "8.868312232646122,55.62099140526438",
+    "label_dk": "Agerbæk"
+  },
+  {
+    "title": "6760, Ribe",
+    "coordinates": "8.653840977695587,55.259674758374445",
+    "label_dk": "Ribe"
+  },
+  {
+    "title": "6771, Gredstedbro",
+    "coordinates": "8.640485193733069,55.38473933091487",
+    "label_dk": "Gredstedbro"
+  },
+  {
+    "title": "6780, Skærbæk",
+    "coordinates": "8.682631345308826,55.16929839911141",
+    "label_dk": "Skærbæk"
+  },
+  {
+    "title": "6792, Rømø",
+    "coordinates": "8.559190074872143,55.122347652303276",
+    "label_dk": "Rømø"
+  },
+  {
+    "title": "6800, Varde",
+    "coordinates": "8.393499739235503,55.610480029584956",
+    "label_dk": "Varde"
+  },
+  {
+    "title": "6818, Årre",
+    "coordinates": "8.572192400567417,55.6032123257115",
+    "label_dk": "Årre"
+  },
+  {
+    "title": "6823, Ansager",
+    "coordinates": "8.67130037346642,55.73304591369188",
+    "label_dk": "Ansager"
+  },
+  {
+    "title": "6830, Nørre Nebel",
+    "coordinates": "8.269769773563647,55.883764403079574",
+    "label_dk": "Nørre Nebel"
+  },
+  {
+    "title": "6840, Oksbøl",
+    "coordinates": "8.17672117084364,55.58625333866191",
+    "label_dk": "Oksbøl"
+  },
+  {
+    "title": "6851, Janderup Vestjylland",
+    "coordinates": "8.420108607137523,55.62322019753478",
+    "label_dk": "Janderup Vestjylland"
+  },
+  {
+    "title": "6852, Billum",
+    "coordinates": "8.276833637439635,55.59619538400381",
+    "label_dk": "Billum"
+  },
+  {
+    "title": "6853, Vejers Strand",
+    "coordinates": "8.153022899535118,55.63641532332596",
+    "label_dk": "Vejers Strand"
+  },
+  {
+    "title": "6854, Henne",
+    "coordinates": "8.163627842918629,55.72262452340125",
+    "label_dk": "Henne"
+  },
+  {
+    "title": "6855, Outrup",
+    "coordinates": "8.440850269547077,55.727052554040256",
+    "label_dk": "Outrup"
+  },
+  {
+    "title": "6857, Blåvand",
+    "coordinates": "8.236770541029703,55.55822098586007",
+    "label_dk": "Blåvand"
+  },
+  {
+    "title": "6862, Tistrup",
+    "coordinates": "8.701925744123487,55.698655737137635",
+    "label_dk": "Tistrup"
+  },
+  {
+    "title": "6870, Ølgod",
+    "coordinates": "8.616385193241642,55.742132712444416",
+    "label_dk": "Ølgod"
+  },
+  {
+    "title": "6880, Tarm",
+    "coordinates": "8.457273859207824,55.820113222233886",
+    "label_dk": "Tarm"
+  },
+  {
+    "title": "6893, Hemmet",
+    "coordinates": "8.270588517735137,55.84265199949558",
+    "label_dk": "Hemmet"
+  },
+  {
+    "title": "6900, Skjern",
+    "coordinates": "8.374198417511957,55.92215853687612",
+    "label_dk": "Skjern"
+  },
+  {
+    "title": "6920, Videbæk",
+    "coordinates": "8.777928938678777,56.032943492133086",
+    "label_dk": "Videbæk"
+  },
+  {
+    "title": "6933, Kibæk",
+    "coordinates": "8.763137141224236,55.99387330490244",
+    "label_dk": "Kibæk"
+  },
+  {
+    "title": "6940, Lem St.",
+    "coordinates": "8.38629675167849,56.062411978462286",
+    "label_dk": "Lem St."
+  },
+  {
+    "title": "6950, Ringkøbing",
+    "coordinates": "8.301890449378998,56.045496439230554",
+    "label_dk": "Ringkøbing"
+  },
+  {
+    "title": "6960, Hvide Sande",
+    "coordinates": "8.127250857608196,56.02893020958358",
+    "label_dk": "Hvide Sande"
+  },
+  {
+    "title": "6971, Spjald",
+    "coordinates": "8.464435862234955,56.192422990199375",
+    "label_dk": "Spjald"
+  },
+  {
+    "title": "6973, Ørnhøj",
+    "coordinates": "8.517897621319992,56.24192528613711",
+    "label_dk": "Ørnhøj"
+  },
+  {
+    "title": "6980, Tim",
+    "coordinates": "8.209656022931261,56.22375828950838",
+    "label_dk": "Tim"
+  },
+  {
+    "title": "6990, Ulfborg",
+    "coordinates": "8.245711829898546,56.326017994389694",
+    "label_dk": "Ulfborg"
+  },
+  {
+    "title": "7000, Fredericia",
+    "coordinates": "9.616789881154101,55.631765959813436",
+    "label_dk": "Fredericia"
+  },
+  {
+    "title": "7007, Fredericia Sydjyllands Postcenter",
+    "coordinates": "9.7526,55.5657",
+    "label_dk": "Fredericia Sydjyllands Postcenter"
+  },
+  {
+    "title": "7080, Børkop",
+    "coordinates": "9.643433133216787,55.69371185824077",
+    "label_dk": "Børkop"
+  },
+  {
+    "title": "7100, Vejle",
+    "coordinates": "9.58196706692588,55.704756278803394",
+    "label_dk": "Vejle"
+  },
+  {
+    "title": "7120, Vejle Øst",
+    "coordinates": "9.683831492629489,55.7438368389509",
+    "label_dk": "Vejle Øst"
+  },
+  {
+    "title": "7130, Juelsminde",
+    "coordinates": "9.87986439610584,55.80243498131649",
+    "label_dk": "Juelsminde"
+  },
+  {
+    "title": "7140, Stouby",
+    "coordinates": "9.83604021730926,55.688719146555",
+    "label_dk": "Stouby"
+  },
+  {
+    "title": "7150, Barrit",
+    "coordinates": "9.894443821852908,55.68886920143706",
+    "label_dk": "Barrit"
+  },
+  {
+    "title": "7160, Tørring",
+    "coordinates": "9.39232568008319,55.916521307511815",
+    "label_dk": "Tørring"
+  },
+  {
+    "title": "7171, Uldum",
+    "coordinates": "9.620791437901703,55.81840862562646",
+    "label_dk": "Uldum"
+  },
+  {
+    "title": "7173, Vonge",
+    "coordinates": " 9.45953096685203,55.86405519462895",
+    "label_dk": "Vonge"
+  },
+  {
+    "title": "7182, Bredsten",
+    "coordinates": "9.309728255377106,55.74489335961811",
+    "label_dk": "Bredsten"
+  },
+  {
+    "title": "7183, Randbøl",
+    "coordinates": "9.319161070715685,55.68874795943388",
+    "label_dk": "Randbøl"
+  },
+  {
+    "title": "7184, Vandel Denmark",
+    "coordinates": "9.234240269179013,55.72711244598469",
+    "label_dk": "Vandel"
+  },
+  {
+    "title": "7190, Billund",
+    "coordinates": "9.16170758375223,55.76767723056622",
+    "label_dk": "Billund"
+  },
+  {
+    "title": "7200, Grindsted",
+    "coordinates": " 8.811305190964397,55.69750357616863",
+    "label_dk": "Grindsted"
+  },
+  {
+    "title": "7250, Hejnsvig",
+    "coordinates": "8.991353528452802,55.727480821495284",
+    "label_dk": "Hejnsvig"
+  },
+  {
+    "title": "7260, Sønder Omme",
+    "coordinates": " 8.965611770133654,55.88487184326431",
+    "label_dk": "Sønder Omme"
+  },
+  {
+    "title": "7270, Stakroge",
+    "coordinates": "8.810575668030275,55.91089711541494",
+    "label_dk": "Stakroge"
+  },
+  {
+    "title": "7280, Sønder Felding",
+    "coordinates": "8.771493941710261,55.97088891783823",
+    "label_dk": "Sønder Felding"
+  },
+  {
+    "title": "7300, Jelling",
+    "coordinates": "9.345567676791884,55.75611128482798",
+    "label_dk": "Jelling"
+  },
+  {
+    "title": "7321, Gadbjerg",
+    "coordinates": "9.221835723890894,55.76430217257619",
+    "label_dk": "Gadbjerg"
+  },
+  {
+    "title": "7323, Give",
+    "coordinates": "9.124315318363898,55.86963997715625",
+    "label_dk": "Give"
+  },
+  {
+    "title": "7330, Brande",
+    "coordinates": "8.967597167297175,55.86543530270896",
+    "label_dk": "Brande"
+  },
+  {
+    "title": "7361, Ejstrupholm",
+    "coordinates": "9.19586068005987,56.05991094279316",
+    "label_dk": "Ejstrupholm"
+  },
+  {
+    "title": "7362, Hampen",
+    "coordinates": "9.31675146368131,56.08119715812521",
+    "label_dk": "Hampen"
+  },
+  {
+    "title": "7400, Herning",
+    "coordinates": "8.985985681899185,55.99257289870338",
+    "label_dk": "Herning"
+  },
+  {
+    "title": "7401, Herning Vestjyllands Postcenter",
+    "coordinates": "9.103824838770016,56.13892128970364",
+    "label_dk": "Herning Vestjyllands Postcenter"
+  },
+  {
+    "title": "7430, Ikast",
+    "coordinates": "9.193217671928046,56.170624044736556",
+    "label_dk": "Ikast"
+  },
+  {
+    "title": "7441, Bording",
+    "coordinates": "9.300957420723114,56.17071554803282",
+    "label_dk": "Bording"
+  },
+  {
+    "title": "7442, Engesvang",
+    "coordinates": "9.388803728570428,56.143901203316524",
+    "label_dk": "Engesvang"
+  },
+  {
+    "title": "7451, Sunds",
+    "coordinates": "8.911264214111034,56.21599912346839",
+    "label_dk": "Sunds"
+  },
+  {
+    "title": "7470, Karup Jylland",
+    "coordinates": "9.050778582239136,56.331589897952526",
+    "label_dk": "Karup Jylland"
+  },
+  {
+    "title": "7480, Vildbjerg",
+    "coordinates": "8.663652211018254,56.13986306498627",
+    "label_dk": "Vildbjerg"
+  },
+  {
+    "title": "7490, Aulum",
+    "coordinates": "8.735516979362815,56.224330288914",
+    "label_dk": "Aulum"
+  },
+  {
+    "title": "7500, Holstebro",
+    "coordinates": "8.606889567823787,56.28414144485466",
+    "label_dk": "Holstebro"
+  },
+  {
+    "title": "7540, Haderup",
+    "coordinates": "8.966267511673061,56.41576568893099",
+    "label_dk": "Haderup"
+  },
+  {
+    "title": "7550, Sørvad",
+    "coordinates": "8.726592921942125,56.25654208879473",
+    "label_dk": "Sørvad"
+  },
+  {
+    "title": "7560, Hjerm",
+    "coordinates": "8.612059285963959,56.45828974884057",
+    "label_dk": "Hjerm"
+  },
+  {
+    "title": "7570, Vemb",
+    "coordinates": "8.30251937640615,56.32249634312452",
+    "label_dk": "Vemb"
+  },
+  {
+    "title": "7600, Struer",
+    "coordinates": "8.516471432282357,56.53287481271983",
+    "label_dk": "Struer"
+  },
+  {
+    "title": "7620, Lemvig",
+    "coordinates": "8.124844189211986,56.46893462299677",
+    "label_dk": "Lemvig"
+  },
+  {
+    "title": "7650, Bøvlingbjerg",
+    "coordinates": "8.130182835537322,56.43350059151219",
+    "label_dk": "Bøvlingbjerg"
+  },
+  {
+    "title": "7660, Bækmarksbro",
+    "coordinates": "8.343727557209107,56.44847696143942",
+    "label_dk": "Bækmarksbro"
+  },
+  {
+    "title": "7673, Harboøre",
+    "coordinates": "8.17104826177205,56.66274158990621",
+    "label_dk": "Harboøre"
+  },
+  {
+    "title": "7680, Thyborøn",
+    "coordinates": "8.232886210327944,56.68418803925239",
+    "label_dk": "Thyborøn"
+  },
+  {
+    "title": "7700, Thisted",
+    "coordinates": "8.470201375523532,57.04048273493357",
+    "label_dk": "Thisted"
+  },
+  {
+    "title": "7730, Hanstholm",
+    "coordinates": "8.626881783992498,57.123398687983055",
+    "label_dk": "Hanstholm"
+  },
+  {
+    "title": "7741, Frøstrup",
+    "coordinates": "8.976178191402974,57.15763871166658",
+    "label_dk": "Frøstrup"
+  },
+  {
+    "title": "7742, Vesløs",
+    "coordinates": "9.043093725138753,57.04530800845446",
+    "label_dk": "Vesløs"
+  },
+  {
+    "title": "7752, Snedsted",
+    "coordinates": "8.508174401590534,56.9098983158302",
+    "label_dk": "Snedsted"
+  },
+  {
+    "title": "7755, Bedsted Thy",
+    "coordinates": "8.532023360044704,56.81988204480367",
+    "label_dk": "Bedsted Thy"
+  },
+  {
+    "title": "7760, Hurup Thy",
+    "coordinates": "8.338690605531736,56.69951970845753",
+    "label_dk": "Hurup Thy"
+  },
+  {
+    "title": "7770, Vestervig",
+    "coordinates": "8.272571364752359,56.77212956688966",
+    "label_dk": "Vestervig"
+  },
+  {
+    "title": "7790, Thyholm",
+    "coordinates": "8.426619418002401,56.671224131157636",
+    "label_dk": "Thyholm"
+  },
+  {
+    "title": "7800, Skive",
+    "coordinates": "8.900019350810648,56.49931641898993",
+    "label_dk": "Skive"
+  },
+  {
+    "title": "7830, Vinderup",
+    "coordinates": "8.708485946263144,56.42555303280727",
+    "label_dk": "Vinderup"
+  },
+  {
+    "title": "7840, Højslev",
+    "coordinates": "9.095591470795055,56.58152592516814",
+    "label_dk": "Højslev"
+  },
+  {
+    "title": "7850, Stoholm Jylland",
+    "coordinates": "9.186662673753448,56.51923433459419",
+    "label_dk": "Stoholm Jylland"
+  },
+  {
+    "title": "7860, Spøttrup",
+    "coordinates": "8.699610475352536,56.5883423235417",
+    "label_dk": "Spøttrup"
+  },
+  {
+    "title": "7870, Roslev",
+    "coordinates": "8.947490111984568,56.67146321939251",
+    "label_dk": "Roslev"
+  },
+  {
+    "title": "7884, Fur",
+    "coordinates": "9.004027720824336,56.79794073788278",
+    "label_dk": "Fur"
+  },
+  {
+    "title": "7900, Nykøbing Mors",
+    "coordinates": "8.63992233655836,56.796756513760116",
+    "label_dk": "Nykøbing Mors"
+  },
+  {
+    "title": "7950, Erslev",
+    "coordinates": "8.624777349974456,56.821390508212325",
+    "label_dk": "Erslev"
+  },
+  {
+    "title": "7960, Karby",
+    "coordinates": "8.57941357134785,56.72616916852642",
+    "label_dk": "Karby"
+  },
+  {
+    "title": "7970, Redsted Mors",
+    "coordinates": "8.606371883927896,56.717327138928425",
+    "label_dk": "Redsted Mors"
+  },
+  {
+    "title": "7980, Vils",
+    "coordinates": "8.7579207761245,56.744811243722616",
+    "label_dk": "Vils"
+  },
+  {
+    "title": "7990, Øster Assels",
+    "coordinates": "8.787861221818956,56.71903050189035",
+    "label_dk": "Øster Assels"
+  },
+  {
+    "title": "8000, Århus C",
+    "coordinates": "10.224410039926488,56.166475589836125",
+    "label_dk": "Århus C"
+  },
+  {
+    "title": "8011, Århus C Østjyllands Postcenter",
+    "coordinates": "10.231970032080842,56.146569466867824",
+    "label_dk": "Århus C Østjyllands Postcenter"
+  },
+  {
+    "title": "8200, Århus N",
+    "coordinates": "10.192174659923369,56.23182526398054",
+    "label_dk": "Århus N"
+  },
+  {
+    "title": "8210, Århus V",
+    "coordinates": "10.169822082530642,56.18350927167626",
+    "label_dk": "Århus V"
+  },
+  {
+    "title": "8220, Brabrand",
+    "coordinates": "10.144323008965218,56.152179033490626",
+    "label_dk": "Brabrand"
+  },
+  {
+    "title": "8230, Åbyhøj",
+    "coordinates": "10.175905890647638,56.156677991640564",
+    "label_dk": "Åbyhøj"
+  },
+  {
+    "title": "8240, Risskov",
+    "coordinates": "10.280713631853095,56.19990627860319",
+    "label_dk": "Risskov"
+  },
+  {
+    "title": "8245, Risskov Ø Østjyllands Postcenter",
+    "coordinates": "10.22310703219433,56.16956152274279",
+    "label_dk": "Risskov Ø Østjyllands Postcenter"
+  },
+  {
+    "title": "8250, Egå",
+    "coordinates": "10.339527171221102,6.23827108953934",
+    "label_dk": "Egå"
+  },
+  {
+    "title": "8260, Viby Jylland",
+    "coordinates": "10.03417057900993,56.12919904631472",
+    "label_dk": "Viby Jylland"
+  },
+  {
+    "title": "8270, Højbjerg",
+    "coordinates": "10.206946128492936,56.120969255372245",
+    "label_dk": "Højbjerg"
+  },
+  {
+    "title": "8300, Odder",
+    "coordinates": "10.463057570642322,55.95202809032325",
+    "label_dk": "Odder"
+  },
+  {
+    "title": "8305, Samsø",
+    "coordinates": "10.760841750531615,55.9479345212638",
+    "label_dk": "Samsø"
+  },
+  {
+    "title": "8310, Tranbjerg Jylland",
+    "coordinates": "10.125398522885042,56.10935395143532",
+    "label_dk": "Tranbjerg Jylland"
+  },
+  {
+    "title": "8320, Mårslet",
+    "coordinates": "10.167851825216053,56.04815607013441",
+    "label_dk": "Mårslet"
+  },
+  {
+    "title": "8330, Beder",
+    "coordinates": "10.249488274860555,56.0839168133752",
+    "label_dk": "Beder"
+  },
+  {
+    "title": "8340, Malling",
+    "coordinates": "10.121619009461819,56.038286463326806",
+    "label_dk": "Malling"
+  },
+  {
+    "title": "8350, Hundslund",
+    "coordinates": "10.08664873030907,55.901250864059485",
+    "label_dk": "Hundslund"
+  },
+  {
+    "title": "8355, Solbjerg",
+    "coordinates": "10.076544482621054,56.05399158757927",
+    "label_dk": "Solbjerg"
+  },
+  {
+    "title": "8361, Hasselager",
+    "coordinates": "10.110712778692982,56.097799455209575",
+    "label_dk": "Hasselager"
+  },
+  {
+    "title": "8362, Hørning",
+    "coordinates": "9.946017884373704,56.09048739863256",
+    "label_dk": "Hørning"
+  },
+  {
+    "title": "8370, Hadsten",
+    "coordinates": "9.958357941785884,56.36193549101055",
+    "label_dk": "Hadsten"
+  },
+  {
+    "title": "8380, Trige",
+    "coordinates": "10.17329710650534,56.24792068674358",
+    "label_dk": "Trige"
+  },
+  {
+    "title": "8381, Tilst",
+    "coordinates": "10.06438017130473,56.19561974237381",
+    "label_dk": "Tilst"
+  },
+  {
+    "title": "8382, Hinnerup",
+    "coordinates": "10.040497835205542,56.29631435060176",
+    "label_dk": "Hinnerup"
+  },
+  {
+    "title": "8400, Ebeltoft",
+    "coordinates": "10.642355350707327,56.26057866072314",
+    "label_dk": "Ebeltoft"
+  },
+  {
+    "title": "8410, Rønde",
+    "coordinates": "10.523020846474836,56.341360831462964",
+    "label_dk": "Rønde"
+  },
+  {
+    "title": "8420, Knebel",
+    "coordinates": "10.559139622780215,56.19396846573653",
+    "label_dk": "Knebel"
+  },
+  {
+    "title": "8444, Balle",
+    "coordinates": "10.86049213616407,56.31153165650229",
+    "label_dk": "Balle"
+  },
+  {
+    "title": "8450, Hammel",
+    "coordinates": " 9.86294360695625,56.314424804758524",
+    "label_dk": "Hammel"
+  },
+  {
+    "title": "8462, Harlev Jylland",
+    "coordinates": "9.9838308718149,56.178676662187925",
+    "label_dk": "Harlev Jylland"
+  },
+  {
+    "title": "8464, Galten",
+    "coordinates": "9.979099807879571,56.203899901163155",
+    "label_dk": "Galten"
+  },
+  {
+    "title": "8471, Sabro",
+    "coordinates": "9.994612294073876,56.23854806578365",
+    "label_dk": "Sabro"
+  },
+  {
+    "title": "8472, Sporup",
+    "coordinates": "9.880335437451473,56.19886824625358",
+    "label_dk": "Sporup"
+  },
+  {
+    "title": "8500, Grenaa",
+    "coordinates": "10.763882584648124,56.44710085874818",
+    "label_dk": "Grenaa"
+  },
+  {
+    "title": "8520, Lystrup",
+    "coordinates": "10.240024547589549,56.223635121581474",
+    "label_dk": "Lystrup"
+  },
+  {
+    "title": "8530, Hjortshøj",
+    "coordinates": "10.240116049500088,56.299241754151495",
+    "label_dk": "Hjortshøj"
+  },
+  {
+    "title": "8541, Skødstrup",
+    "coordinates": "10.364555387411409,56.27226891929843",
+    "label_dk": "Skødstrup"
+  },
+  {
+    "title": "8543, Hornslet",
+    "coordinates": "10.213085819566283,56.32976193346652",
+    "label_dk": "Hornslet"
+  },
+  {
+    "title": "8544, Mørke",
+    "coordinates": "10.242151835518795,56.40415839873497",
+    "label_dk": "Mørke"
+  },
+  {
+    "title": "8550, Ryomgård",
+    "coordinates": "10.462456112541405,56.41946329442932",
+    "label_dk": "Ryomgård"
+  },
+  {
+    "title": "8560, Kolind",
+    "coordinates": "10.636697775606839,56.39593990945857",
+    "label_dk": "Kolind"
+  },
+  {
+    "title": "8570, Trustrup",
+    "coordinates": "10.837511746590028,56.34500999658332",
+    "label_dk": "Trustrup"
+  },
+  {
+    "title": "8581, Nimtofte",
+    "coordinates": "10.561908716440566,56.44539750878575",
+    "label_dk": "Nimtofte"
+  },
+  {
+    "title": "8585, Glesborg",
+    "coordinates": "10.73866051839274,56.44706734822118",
+    "label_dk": "Glesborg"
+  },
+  {
+    "title": "8586, Ørum Djurs",
+    "coordinates": "10.63505458242842,56.474210930107006",
+    "label_dk": "Ørum Djurs"
+  },
+  {
+    "title": "8592, Anholt",
+    "coordinates": "11.57346497710765,56.72374934056636",
+    "label_dk": "Anholt"
+  },
+  {
+    "title": "8600, Silkeborg",
+    "coordinates": "9.500537859241557,56.227280029892235",
+    "label_dk": "Silkeborg"
+  },
+  {
+    "title": "8620, Kjellerup",
+    "coordinates": "9.494639721772797,56.315327244812735",
+    "label_dk": "Kjellerup"
+  },
+  {
+    "title": "8632, Lemming",
+    "coordinates": "9.590752123098138,56.25355133845018",
+    "label_dk": "Lemming"
+  },
+  {
+    "title": "8641, Sorring",
+    "coordinates": " 9.828434991634138,56.18504106168964",
+    "label_dk": "Sorring"
+  },
+  {
+    "title": "8643, Ans By",
+    "coordinates": "9.656253263492413,56.27269474196532",
+    "label_dk": "Ans By"
+  },
+  {
+    "title": "8653, Them",
+    "coordinates": "9.496831437595949,56.103553817536415",
+    "label_dk": "Them"
+  },
+  {
+    "title": "8654, Bryrup",
+    "coordinates": "9.57756168552262,56.046810630096275",
+    "label_dk": "Bryrup"
+  },
+  {
+    "title": "8660, Skanderborg",
+    "coordinates": "9.759620099152132,56.060743511731296",
+    "label_dk": "Skanderborg"
+  },
+  {
+    "title": "8670, Låsby",
+    "coordinates": "9.856244385428218,56.1608941784889",
+    "label_dk": "Låsby"
+  },
+  {
+    "title": "8680, Ry",
+    "coordinates": "9.812374483041344,56.131424179646935",
+    "label_dk": "Ry"
+  },
+  {
+    "title": "8700, Horsens",
+    "coordinates": "10.327949280681393,55.77035081152659",
+    "label_dk": "Horsens"
+  },
+  {
+    "title": "8721, Daugård",
+    "coordinates": "9.774278698447983,55.72870494331383",
+    "label_dk": "Daugård"
+  },
+  {
+    "title": "8722, Hedensted",
+    "coordinates": "9.691721245906335,55.784080028280016",
+    "label_dk": "Hedensted"
+  },
+  {
+    "title": "8723, Løsning",
+    "coordinates": "9.668334996395691,55.825584253929904",
+    "label_dk": "Løsning"
+  },
+  {
+    "title": "8732, Hovedgård",
+    "coordinates": "9.890115847752039,55.9497058037848",
+    "label_dk": "Hovedgård"
+  },
+  {
+    "title": "8740, Brædstrup",
+    "coordinates": "9.52209479391795,55.997005980511325",
+    "label_dk": "Brædstrup"
+  },
+  {
+    "title": "8751, Gedved",
+    "coordinates": "9.887645987292336,55.92747729710776",
+    "label_dk": "Gedved"
+  },
+  {
+    "title": "8752, Østbirk",
+    "coordinates": "9.778794443374641,56.014715483172196",
+    "label_dk": "Østbirk"
+  },
+  {
+    "title": "8762, Flemming",
+    "coordinates": "9.66130294506956,55.91324701316337",
+    "label_dk": "Flemming"
+  },
+  {
+    "title": "8763, Rask Mølle",
+    "coordinates": "9.647458275302716,55.881978015268714",
+    "label_dk": "Rask Mølle"
+  },
+  {
+    "title": "8765, Klovborg",
+    "coordinates": "9.541674033700941,55.913448142186105",
+    "label_dk": "Klovborg"
+  },
+  {
+    "title": "8766, Nørre Snede",
+    "coordinates": "9.416805678453711,56.018610623296354",
+    "label_dk": "Nørre Snede"
+  },
+  {
+    "title": "8781, Stenderup",
+    "coordinates": "9.846120658688799,55.80554051377534",
+    "label_dk": "Stenderup"
+  },
+  {
+    "title": "8783, Hornsyld",
+    "coordinates": "9.88765565788367,55.77731379212453",
+    "label_dk": "Hornsyld"
+  },
+  {
+    "title": "8800, Viborg",
+    "coordinates": "9.177399158131465,56.470256942536956",
+    "label_dk": "Viborg"
+  },
+  {
+    "title": "8830, Tjele",
+    "coordinates": "9.476984199407323,56.569246648488324",
+    "label_dk": "Tjele"
+  },
+  {
+    "title": "8831, Løgstrup",
+    "coordinates": "9.272606929200416,56.546899512530516",
+    "label_dk": "Løgstrup"
+  },
+  {
+    "title": "8832, Skals",
+    "coordinates": "9.368040387748973,56.568045002136266",
+    "label_dk": "Skals"
+  },
+  {
+    "title": "8840, Rødkærsbro",
+    "coordinates": "9.447994022345833,56.35301560049805",
+    "label_dk": "Rødkærsbro"
+  },
+  {
+    "title": "8850, Bjerringbro",
+    "coordinates": "9.637871887469172,56.438483900811775",
+    "label_dk": "Bjerringbro"
+  },
+  {
+    "title": "8860, Ulstrup",
+    "coordinates": "9.806324851634338,56.33303365858361",
+    "label_dk": "Ulstrup"
+  },
+  {
+    "title": "8870, Langå",
+    "coordinates": "9.939860326499332,56.44953408204773",
+    "label_dk": "Langå"
+  },
+  {
+    "title": "8881, Thorsø",
+    "coordinates": "9.728242659017921,56.327887650826675",
+    "label_dk": "Thorsø"
+  },
+  {
+    "title": "8882, Fårvang",
+    "coordinates": "9.776622822290099,56.29245428106721",
+    "label_dk": "Fårvang"
+  },
+  {
+    "title": "8883, Gjern",
+    "coordinates": "9.725338601888945,56.239242085969515",
+    "label_dk": "Gjern"
+  },
+  {
+    "title": "8900, Randers",
+    "coordinates": "10.039636590026406,56.456886321621916",
+    "label_dk": "Randers"
+  },
+  {
+    "title": "8920, Randers NV",
+    "coordinates": "10.019981572439647,56.51499712758863",
+    "label_dk": "Randers NV"
+  },
+  {
+    "title": "8930, Randers NØ",
+    "coordinates": "10.178985874306287,56.56132727791059",
+    "label_dk": "Randers NØ"
+  },
+  {
+    "title": "8940, Randers SV",
+    "coordinates": "10.025815031108351,56.456110008326746",
+    "label_dk": "Randers SV"
+  },
+  {
+    "title": "8950, Ørsted",
+    "coordinates": "10.249994906064778,56.472133013007955",
+    "label_dk": "Ørsted"
+  },
+  {
+    "title": "8960, Randers SØ",
+    "coordinates": "10.06378553486785,56.46192710053006",
+    "label_dk": "Randers SØ"
+  },
+  {
+    "title": "8961, Allingåbro",
+    "coordinates": "10.345457684617829,56.480448486330495",
+    "label_dk": "Allingåbro"
+  },
+  {
+    "title": "8963, Auning",
+    "coordinates": "10.297680704975738,56.42159484505795",
+    "label_dk": "Auning"
+  },
+  {
+    "title": "8970, Havndal",
+    "coordinates": "10.152704124005849,56.67299219905899",
+    "label_dk": "Havndal"
+  },
+  {
+    "title": "8981, Spentrup",
+    "coordinates": "10.131742109892157,56.544326577796085",
+    "label_dk": "Spentrup"
+  },
+  {
+    "title": "8983, Gjerlev Jylland",
+    "coordinates": "10.231239532432955,56.570046151567574",
+    "label_dk": "Gjerlev Jylland"
+  },
+  {
+    "title": "8990, Fårup",
+    "coordinates": "9.952022703378017,56.564685830063894",
+    "label_dk": "Fårup"
+  },
+  {
+    "title": "9000, Aalborg",
+    "coordinates": "9.857474985789489,57.04722077149234",
+    "label_dk": "Aalborg"
+  },
+  {
+    "title": "9020, Aalborg Nordjyllands Postcenter",
+    "coordinates": "9.84331397979237,57.05367744299251",
+    "label_dk": "Aalborg Nordjyllands Postcenter"
+  },
+  {
+    "title": "9200, Aalborg SV",
+    "coordinates": "9.867632181268371,56.994131939332846",
+    "label_dk": "Aalborg SV"
+  },
+  {
+    "title": "9210, Aalborg SØ",
+    "coordinates": "9.924918048350376,57.02287941205753",
+    "label_dk": "Aalborg SØ"
+  },
+  {
+    "title": "9220, Aalborg Øst",
+    "coordinates": "10.024626833134622,57.07636686630592",
+    "label_dk": "Aalborg Øst"
+  },
+  {
+    "title": "9230, Svenstrup Jylland",
+    "coordinates": "9.90807386399209,56.98953123816943",
+    "label_dk": "Svenstrup Jylland"
+  },
+  {
+    "title": "9240, Nibe",
+    "coordinates": "9.605647050999842,56.98327229840794",
+    "label_dk": "Nibe"
+  },
+  {
+    "title": "9260, Gistrup",
+    "coordinates": " 9.96533730527309,56.99170595278839",
+    "label_dk": "Gistrup"
+  },
+  {
+    "title": "9270, Klarup",
+    "coordinates": "10.08079040258863,57.038683120312236",
+    "label_dk": "Klarup"
+  },
+  {
+    "title": "9280, Storvorde",
+    "coordinates": "10.145756386940075,56.94055368410816",
+    "label_dk": "Storvorde"
+  },
+  {
+    "title": "9293, Kongerslev",
+    "coordinates": "10.141349817303176,56.943128359472844",
+    "label_dk": "Kongerslev"
+  },
+  {
+    "title": "9300, Sæby",
+    "coordinates": "10.427489631113314,57.26713516601196",
+    "label_dk": "Sæby"
+  },
+  {
+    "title": "9310, Vodskov",
+    "coordinates": "10.152319143862554,57.12800299477413",
+    "label_dk": "Vodskov"
+  },
+  {
+    "title": "9320, Hjallerup",
+    "coordinates": "10.21933504362472,57.19310059458079",
+    "label_dk": "Hjallerup"
+  },
+  {
+    "title": "9330, Dronninglund",
+    "coordinates": "10.205886958131687,57.221475583271456",
+    "label_dk": "Dronninglund"
+  },
+  {
+    "title": "9340, Asaa",
+    "coordinates": "10.335306115804833,57.15623240620503",
+    "label_dk": "Asaa"
+  },
+  {
+    "title": "9352, Dybvad",
+    "coordinates": "10.335865093949012,57.31389864098364",
+    "label_dk": "Dybvad"
+  },
+  {
+    "title": "9362, Gandrup",
+    "coordinates": "10.201024987635838,56.99772465803978",
+    "label_dk": "Gandrup"
+  },
+  {
+    "title": "9370, Hals",
+    "coordinates": "10.234598036278044,57.06748265493046",
+    "label_dk": "Hals"
+  },
+  {
+    "title": "9380, Vestbjerg",
+    "coordinates": "9.950404605529389,57.1135270618216",
+    "label_dk": "Vestbjerg"
+  },
+  {
+    "title": "9381, Sulsted",
+    "coordinates": "10.023454378771952,57.1901761193352",
+    "label_dk": "Sulsted"
+  },
+  {
+    "title": "9382, Tylstrup",
+    "coordinates": "10.002673499306582,57.19092307552725",
+    "label_dk": "Tylstrup"
+  },
+  {
+    "title": "9400, Nørresundby",
+    "coordinates": "9.939836803431767,57.12947067953868",
+    "label_dk": "Nørresundby"
+  },
+  {
+    "title": "9430, Vadum",
+    "coordinates": "9.919844341640669,57.14669450847115",
+    "label_dk": "Vadum"
+  },
+  {
+    "title": "9440, Aabybro",
+    "coordinates": "9.837504820684007,57.21739074106624",
+    "label_dk": "Aabybro"
+  },
+  {
+    "title": "9460, Brovst",
+    "coordinates": "9.668378836520597,57.132151550103266",
+    "label_dk": "Brovst"
+  },
+  {
+    "title": "9480, Løkken",
+    "coordinates": "9.74315033040847,57.411359455635456",
+    "label_dk": "Løkken"
+  },
+  {
+    "title": "9490, Pandrup",
+    "coordinates": "9.636624385294466,57.2496094798105",
+    "label_dk": "Pandrup"
+  },
+  {
+    "title": "9492, Blokhus",
+    "coordinates": "9.615706037876468,57.238770902988875",
+    "label_dk": "Blokhus"
+  },
+  {
+    "title": "9493, Saltum",
+    "coordinates": "9.739031786281831,57.23750041577599",
+    "label_dk": "Saltum"
+  },
+  {
+    "title": "9500, Hobro",
+    "coordinates": "9.567871383885738,56.67482451914212",
+    "label_dk": "Hobro"
+  },
+  {
+    "title": "9510, Arden",
+    "coordinates": "9.940533371826623,56.79497632727317",
+    "label_dk": "Arden"
+  },
+  {
+    "title": "9520, Skørping",
+    "coordinates": "9.817418608756583,56.85835291215699",
+    "label_dk": "Skørping"
+  },
+  {
+    "title": "9530, Støvring",
+    "coordinates": "9.834449192618509,56.933251587040424",
+    "label_dk": "Støvring"
+  },
+  {
+    "title": "9541, Suldrup",
+    "coordinates": "9.640794066344192,56.88329601226201",
+    "label_dk": "Suldrup"
+  },
+  {
+    "title": "9550, Mariager",
+    "coordinates": "9.909483766906563,56.645189892667545",
+    "label_dk": "Mariager"
+  },
+  {
+    "title": "9560, Hadsund",
+    "coordinates": "10.033805284068636,56.74334371452142",
+    "label_dk": "Hadsund"
+  },
+  {
+    "title": "9574, Bælum",
+    "coordinates": "10.125335402986973,56.79699253178231",
+    "label_dk": "Bælum"
+  },
+  {
+    "title": "9575, Terndrup",
+    "coordinates": "10.074087140935326,56.82752708981116",
+    "label_dk": "Terndrup"
+  },
+  {
+    "title": "9600, Aars",
+    "coordinates": "9.368721866319499,56.81180724380667",
+    "label_dk": "Aars"
+  },
+  {
+    "title": "9610, Nørager",
+    "coordinates": "9.720974439666067,56.79226974325245",
+    "label_dk": "Nørager"
+  },
+  {
+    "title": "9620, Aalestrup",
+    "coordinates": "9.414208220172068,56.73575602931225",
+    "label_dk": "Aalestrup"
+  },
+  {
+    "title": "9631, Gedsted",
+    "coordinates": "9.310403563625961,56.69711953603315",
+    "label_dk": "Gedsted"
+  },
+  {
+    "title": "9632, Møldrup",
+    "coordinates": "9.496145416308067,56.644849918994595",
+    "label_dk": "Møldrup"
+  },
+  {
+    "title": "9640, Farsø",
+    "coordinates": " 9.215966530067817,56.67969660058281",
+    "label_dk": "Farsø"
+  },
+  {
+    "title": "9670, Løgstør",
+    "coordinates": "9.253713450826504,56.98435481555492",
+    "label_dk": "Løgstør"
+  },
+  {
+    "title": "9681, Ranum",
+    "coordinates": "9.097067920315295,56.8840210282857",
+    "label_dk": "Ranum"
+  },
+  {
+    "title": "9690, Fjerritslev",
+    "coordinates": "9.103165519852016,57.14316244192433",
+    "label_dk": "Fjerritslev"
+  },
+  {
+    "title": "9700, Brønderslev",
+    "coordinates": "9.889761950545534,57.33884631722575",
+    "label_dk": "Brønderslev"
+  },
+  {
+    "title": "9740, Jerslev Jylland",
+    "coordinates": "10.204772821259848,57.31588863884088",
+    "label_dk": "Jerslev Jylland"
+  },
+  {
+    "title": "9750, Østervrå",
+    "coordinates": "10.341473565671789,57.31610060145262",
+    "label_dk": "Østervrå"
+  },
+  {
+    "title": "9760, Vrå",
+    "coordinates": "10.054209688510547,57.38999901900356",
+    "label_dk": "Vrå"
+  },
+  {
+    "title": "9800, Hjørring",
+    "coordinates": "9.81071306066935,57.48572817597097",
+    "label_dk": "Hjørring"
+  },
+  {
+    "title": "9830, Tårs",
+    "coordinates": "10.140654116590339,57.4169756525757",
+    "label_dk": "Tårs"
+  },
+  {
+    "title": "9850, Hirtshals",
+    "coordinates": "9.930223816523016,57.57742176928501",
+    "label_dk": "Hirtshals"
+  },
+  {
+    "title": "9870, Sindal",
+    "coordinates": "10.162293567975086,57.518073225020196",
+    "label_dk": "Sindal"
+  },
+  {
+    "title": "9881, Bindslev",
+    "coordinates": "10.275007989839757,57.603217087848996",
+    "label_dk": "Bindslev"
+  },
+  {
+    "title": "9900, Frederikshavn",
+    "coordinates": "10.370654962255752,57.49071885277658",
+    "label_dk": "Frederikshavn"
+  },
+  {
+    "title": "9940, Læsø",
+    "coordinates": "10.955971900619641,57.2123717148304",
+    "label_dk": "Læsø"
+  },
+  {
+    "title": "9970, Strandby",
+    "coordinates": "10.485466267423684,57.506592737414245",
+    "label_dk": "Strandby"
+  },
+  {
+    "title": "9981, Jerup",
+    "coordinates": "10.46139174786408,57.50502918048407",
+    "label_dk": "Jerup"
+  },
+  {
+    "title": "9982, Ålbæk",
+    "coordinates": "10.443210798670966,57.61957037313812",
+    "label_dk": "Ålbæk"
+  },
+  {
+    "title": "9990, Skagen",
+    "coordinates": "10.617558186534309,57.7517080797166",
+    "label_dk": "Skagen"
+  }
+]
